@@ -1,4 +1,4 @@
-# serial-com-gui
+# Serial Por Communication ColorPad GUI Script
 
 ## About
 - srcom is a Python3 script that displays a Graphical User Interface (GUI) representing a color pad where with each color click a specific data payload will be sent to the available serial communication ports.
